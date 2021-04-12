@@ -16,3 +16,4 @@ The following steps/methods were followed:
 5. Correlating Tweet Sentiment Analysis with Stock Price Movement: For every tweet from Phase 1, I classified the corresponding one-day stock price movement as an “Increase” or “Decrease”. In case the stock market was not open on the day of the tweet (i.e. weekend), I used the price from the nearest day when it was open. For the baseline model, I trained a logistic regression model due its binomial classification nature and low computing power requirement. In later experiments I investigated the use of other classifications
 algorithms such as Ridge regression and SVM, and conducted parameter tuning using heuristics and grid search.
 
+Note: X_train.csv and text_emotion.csv are input data files to train the different ML models
