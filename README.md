@@ -19,5 +19,6 @@ algorithms such as Ridge regression and SVM, and conducted parameter tuning usin
 Note: X_train.csv and text_emotion.csv are input data files to train the different ML models
 
 Final Project for a graduate level course, CS5785 Applied Machine Learning at Cornell Tech.
+
 Advisor: Prof. Volodymyr Kuleshov, Assistant Professor of Computer Science
 Team Members: Jagan Narayanan Subramanian, Ali Abouelatta
