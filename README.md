@@ -1,4 +1,8 @@
-# Twitter Emoji Sentiment Analysis & Stock Price Prediction
+# Twitter Stock Price Prediction Using Emoji Sentiment Analysis 
+
+Final Project for a graduate level course, CS5785 Applied Machine Learning at Cornell Tech.
+Advisor: Prof. Volodymyr Kuleshov, Assistant Professor of Computer Science
+Team Members: Ali Abouelatta, Samy Abisaleh 
 
 This repo applies sentiment analysis and machine learning principles to find a correlation
 between “CEO tweet sentiment” and “stock price movement.” Using public Twitter data of 49
