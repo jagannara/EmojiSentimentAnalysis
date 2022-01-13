@@ -1,4 +1,4 @@
-# EmojiSentimentAnalysis
+# Twitter Emoji Sentiment Analysis & Stock Price Prediction
 
 This repo applies sentiment analysis and machine learning principles to find a correlation
 between “CEO tweet sentiment” and “stock price movement.” Using public Twitter data of 49
